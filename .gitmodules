@@ -1,0 +1,4 @@
+[submodule "src/sokol/c"]
+	path = src/sokol/c
+	url = https://github.com/sadguitarius/sokol.git
+	branch = multi-instance
